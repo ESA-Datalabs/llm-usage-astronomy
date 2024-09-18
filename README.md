@@ -10,7 +10,7 @@ This repository contains the code used for the paper “Delving into the Utilisa
 ### notebooks
 + human_vs_llm.ipynb: implementation of how to determine top AI words by token frequency from a dataset
 + llm_in_astronomy.ipynb: implementation of ADS NASA search for top 100 AI words vs 100 control words  
-  
+<br/>
 + LICENSE: the license under which you can reuse this code
 + README.md: you are reading it now :)
 
