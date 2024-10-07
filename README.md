@@ -17,6 +17,21 @@ This repository contains the code used for the paper “Delving into the Utilisa
 + README.md: you are reading it now :)
 
 ## Paper
+Conference proceedings link: https://zenodo.org/records/13885577
+
+```bibtex
+@proceedings{astarita_2024_13885577,
+	doi = {10.5281/zenodo.13885577},
+	month = oct,
+	publisher = {Zenodo},
+	title = {Delving into the Utilisation of ChatGPT in Scientific Publications in Astronomy},
+      author={Simone Astarita and Sandor Kruk and Jan Reerink and Pablo Gómez}
+	url = {https://doi.org/10.5281/zenodo.13885577},
+	year = 2024
+}
+```
+
+If you wish to cite the non-reviewed version (v1), you can get the one from arXiv.
 arXiv link: https://arxiv.org/abs/2406.17324 (conference proceedings forthcoming)
 
 ```bibtex
@@ -27,6 +42,6 @@ arXiv link: https://arxiv.org/abs/2406.17324 (conference proceedings forthcoming
       eprint={2406.17324},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2406.17324}
+      url={https://arxiv.org/abs/2406.17324v1}
 }
 ```
