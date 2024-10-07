@@ -31,8 +31,7 @@ Conference proceedings link: https://zenodo.org/records/13885577
 }
 ```
 
-If you wish to cite the non-reviewed version (v1), you can get the one from arXiv.
-arXiv link: https://arxiv.org/abs/2406.17324 (conference proceedings forthcoming)
+If you wish to cite the non-reviewed version (v1), you can get the one from arXiv: https://arxiv.org/abs/2406.17324
 
 ```bibtex
 @misc{astarita2024delvingutilisationchatgptscientific,
